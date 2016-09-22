@@ -1,0 +1,21 @@
+From a5e584ffa4a8d85360383b469ab94f0fd5cc947f Mon Sep 17 00:00:00 2001
+From: piromane <piromane@yandex.ru>
+Date: Fri, 16 Sep 2016 10:44:53 +0300
+Subject: [PATCH] Initial commit
+
+---
+ README.md | 2 ++
+ 1 file changed, 2 insertions(+)
+ create mode 100644 README.md
+
+diff --git a/README.md b/README.md
+new file mode 100644
+index 0000000..49f7d3c
+--- /dev/null
++++ b/README.md
+@@ -0,0 +1,2 @@
++# ExtRepoPart1
++репозиторий в рамках первого модуля обучения
+-- 
+2.10.0.windows.1
+
